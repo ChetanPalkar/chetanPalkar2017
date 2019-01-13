@@ -1,0 +1,56 @@
+//*****TCS Internal*******
+Unclear inputs, Social Context, Task distribution, and Transformation are some of the key attributes which favor RPA.
+Assisted
+
+is aimed at IT architecture to enable process management capability.
+ERP, RPA , BPMS & All of the above - selected
+
+Individual level screen level interactions are covered by _ layer of RPA.
+Components
+
+provides open platform for automation.
+UiPath
+
+Greater resilience is achieved in RPA through ____
+Object oriented approach - selected , Layered configuration , Functional approach
+
+is hosted on a server.
+Developer tools and robot controller - Both of above
+
+RPA enables monitoring of network devices.
+True
+
+Autonomous RPA is a kind of __
+Unassisted
+
+provides instructions to robot.
+Robot Controller
+
+RPA is a __ software
+Both of the options
+
+A robot can accumulate knowledge of procedures over time.
+True
+
+_ deploy(s) jobs to the software robots.
+Robot Controller
+
+RPA interacts with multiple application at the ________ layer.
+object
+
+RPA can be used to automate _.
+statement reconciliation
+
+CRM system can be streamlined using _ tools.
+RPA - selected , BPM , None of the options
+
+RPA stores data and enables automation.
+True - selected , False
+
+RPA answers to customers in _
+Natural language.
+
+Which among these is not an RPA tool?
+
+BPM interacts through the _ layer.
+Presentation
